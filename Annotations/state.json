@@ -1,0 +1,34 @@
+{
+  "layers": {
+    "em_clahe": {
+      "source": "boss://https://api.boss.neurodata.io/collman/M247514_Rorb_1_Site3Align2_EM/em_clahe?",
+      "type": "image",
+      "blend": "additive"
+    }
+  },
+  "navigation": {
+    "pose": {
+      "position": {
+        "voxelSize": [
+          3,
+          3,
+          50
+        ],
+        "voxelCoordinates": [
+          6412.56787109375,
+          7252.77783203125,
+          36.2975959777832
+        ]
+      }
+    },
+    "zoomFactor": 3
+  },
+  "perspectiveOrientation": [
+    0.7994378209114075,
+    0.4213772714138031,
+    -0.3306795358657837,
+    0.2720135748386383
+  ],
+  "perspectiveZoom": 16,
+  "layout": "xy"
+}
