@@ -21,7 +21,7 @@ output:
 
 
 
-# Using the exported JSON file.
+# Using the exported JSON file
 
 When using [NDviz](http://viz.neurodata.io/) to view your favorite dataset you
 may want to add some point annotations to share with collaborators. The
@@ -102,7 +102,7 @@ makeEllipse <- function(x, y, z, id,
 }
 ```
 
-### set up a toy example.
+### set up a toy example
 
 If you already have a set of `x, y, z` coordinates with id's you can skip
 this.  
